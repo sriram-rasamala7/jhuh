@@ -1,2 +1,2 @@
 const age="25";
-//gitconst name="john";
+//gconst name="john";
